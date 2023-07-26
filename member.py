@@ -73,7 +73,7 @@ mlist.append(newmember)
 
 newmember = Member("大谷渉太", "バモス！")
 mlist.append(newmember)
-mlist.append(newmember)
+
 
 
 # メンバー表示
