@@ -71,7 +71,7 @@ mlist.append(newmember)
 newmember = Member("小犬丸 愛花", "とても眠いです")
 mlist.append(newmember)
 
-newmember = Member("大谷渉太", "バモス!!")
+newmember = Member("大谷渉太", "バモス!")
 mlist.append(newmember)
 
 
